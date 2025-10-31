@@ -1,1 +1,1 @@
-# pandas-miniproject
+about pandas project
